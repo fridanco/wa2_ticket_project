@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Turnstile-Service
+  cloud:
+    vault:
+      host: localhost
+      port: 8200
+      scheme: http
+      token: hvs8AqIBVD02kiTT3mVSbryJeer
