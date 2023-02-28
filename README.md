@@ -1,5 +1,11 @@
 # WA2-Group17-Lab5
 
+## Group members
+- Deda Mario - s292645
+- Di Franco Francesco - s284590
+- Galliano Giacomo - s292482
+- Gulotta Dario Paolo - s292474
+
 ## Vault
 
 ```
